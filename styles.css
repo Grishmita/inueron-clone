@@ -453,6 +453,7 @@ span.session {
     }
     .our-products-div {
         grid-template-columns: 1fr;
+        width: 100% !important;
     }
     .last-two {
         grid-template-columns: 1fr;
